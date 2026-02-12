@@ -6,7 +6,7 @@ package cmd
 import (
 	"os"
 
-	"hm_ps/cmd/net"
+	"github.com/baselnabil/home_made_ps/cmd/net"
 
 	"github.com/spf13/cobra"
 )

@@ -1,4 +1,4 @@
-module hm_ps
+module github.com/baselnabil/home_made_ps
 
 go 1.22.2
 
